@@ -1,0 +1,1 @@
+org.springframework.autoconfigure.EnableAutoConfiguration = sb.com.starter.LoggerConfig
